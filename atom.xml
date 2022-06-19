@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-06-18T08:22:30.325Z</updated>
+  <updated>2022-06-19T06:46:04.747Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hide-and-seek</title>
+    <link href="http://example.com/2022/06/19/%E6%96%B0%E9%A1%B9%E7%9B%AE/"/>
+    <id>http://example.com/2022/06/19/%E6%96%B0%E9%A1%B9%E7%9B%AE/</id>
+    <published>2022-06-19T06:24:51.000Z</published>
+    <updated>2022-06-19T06:46:04.747Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Hide-and-seek"><a href="#Hide-and-seek" class="headerlink" title="Hide-and-seek"></a>Hide-and-seek</h1><p>Wait for the end<br>won’t stop sound of time<br>A smile of a lie,<br> Say “see you tomorrow”<br>I’m leaning on Your shadow and this word<br>I have to let go to the secret place </p><p>I can’t believe I believed<br>It feels right when it’s wrong<br>I’m leaning on Your shadow and this word<br>I have to let go to the secret place<br>“tick-tack tick-tack”Can you hear me?<br>“tick-tack tick-tack”Sound of our time<br>Tie me, Tie me, Tie me down”The world”<br>Goodbye, Goodbye, Goodbye”The world”<br>Promises we can’t do, we can’t do </p><p>Because I realized I got, Ah<br>When I remember that promise,<br>I remember happiness.</p><p>I have to let go to the secret place<br>I played me invisible anxiety<br>I was knocked out, In a situation of liars<br>breath disappears as if snow white<br>in space with just the two of them</p><p>You don’t know how much I love you<br>That’s all you got in the end </p><p>If you find me with hide-and-seek<br>I send my special love to you.</p><p>Didn’t think about it, just went with it<br>in space with just the two of them </p><p>I keep praying to hide me from the world<br>and,I have a breath in order to end<br>I do not want to disappear<br>I just want to make it “eternal”</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Hide-and-seek&quot;&gt;&lt;a href=&quot;#Hide-and-seek&quot; class=&quot;headerlink&quot; title=&quot;Hide-and-seek&quot;&gt;&lt;/a&gt;Hide-and-seek&lt;/h1&gt;&lt;p&gt;Wait for the end&lt;br&gt;won’t </summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
