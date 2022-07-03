@@ -33,9 +33,9 @@
     <category term="小说翻译" scheme="http://example.com/categories/%E5%B0%8F%E8%AF%B4%E7%BF%BB%E8%AF%91/"/>
     
     
-    <category term="ぼちぼちこ" scheme="http://example.com/tags/%E3%81%BC%E3%81%A1%E3%81%BC%E3%81%A1%E3%81%93/"/>
-    
     <category term="短篇小说" scheme="http://example.com/tags/%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="ぼちぼちこ" scheme="http://example.com/tags/%E3%81%BC%E3%81%A1%E3%81%BC%E3%81%A1%E3%81%93/"/>
     
   </entry>
   
