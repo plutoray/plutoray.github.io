@@ -33,9 +33,9 @@
     <category term="小说翻译" scheme="http://example.com/categories/%E5%B0%8F%E8%AF%B4%E7%BF%BB%E8%AF%91/"/>
     
     
-    <category term="ぼちぼちこ" scheme="http://example.com/tags/%E3%81%BC%E3%81%A1%E3%81%BC%E3%81%A1%E3%81%93/"/>
-    
     <category term="短篇小说" scheme="http://example.com/tags/%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="ぼちぼちこ" scheme="http://example.com/tags/%E3%81%BC%E3%81%A1%E3%81%BC%E3%81%A1%E3%81%93/"/>
     
   </entry>
   
@@ -142,9 +142,9 @@
     <category term="观后感" scheme="http://example.com/categories/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
     
     
-    <category term="观后感" scheme="http://example.com/tags/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
-    
     <category term="影视剧" scheme="http://example.com/tags/%E5%BD%B1%E8%A7%86%E5%89%A7/"/>
+    
+    <category term="观后感" scheme="http://example.com/tags/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
     
   </entry>
   
@@ -165,9 +165,9 @@
     <category term="观后感" scheme="http://example.com/categories/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
     
     
-    <category term="观后感" scheme="http://example.com/tags/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
-    
     <category term="影视剧" scheme="http://example.com/tags/%E5%BD%B1%E8%A7%86%E5%89%A7/"/>
+    
+    <category term="观后感" scheme="http://example.com/tags/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
     
   </entry>
   
@@ -378,11 +378,11 @@
     <category term="小说翻译" scheme="http://example.com/categories/%E5%B0%8F%E8%AF%B4%E7%BF%BB%E8%AF%91/"/>
     
     
-    <category term="短篇小说" scheme="http://example.com/tags/%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AF%B4/"/>
-    
     <category term="はんぺんた" scheme="http://example.com/tags/%E3%81%AF%E3%82%93%E3%81%BA%E3%82%93%E3%81%9F/"/>
     
     <category term="ユリキャノン" scheme="http://example.com/tags/%E3%83%A6%E3%83%AA%E3%82%AD%E3%83%A3%E3%83%8E%E3%83%B3/"/>
+    
+    <category term="短篇小说" scheme="http://example.com/tags/%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AF%B4/"/>
     
   </entry>
   
